@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohtady-sameh-3a9386244/" target="_blank"><img src="style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohtady-sameh-3a9386244/" target="_blank"><img src="https://www.flaticon.com/free-icon/linkedin_145807?term=linkedin&page=1&position=6&origin=search&related_id=145807 style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
