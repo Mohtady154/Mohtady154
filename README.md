@@ -1,45 +1,92 @@
+<!-- Profile Header -->
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<h1 align="center">
+  Hey there, I'm <span style="color:#4A90E2;">Mohtady Sameh</span> 👋
+</h1>
 
-<h3 align="center">
-  Welcome to Mohtady Sameh's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h3 align="center">🚀 Software Engineer | Frontend & Java Developer | Tech Enthusiast</h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Frontend+Specialist+(React+%2F+Next.js);Backend+with+Java+Spring+Boot;Always+Learning+New+Technologies+💡" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS
+---
 
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-### Connect with Me :
+### 👨‍💻 About Me
 
-<a href="https://www.linkedin.com/in/mohtady-sameh-3a9386244/" target="_blank"><img src="https://img.shields.io/badge/-Mohtady%20Sameh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+- 🏢 I'm a passionate **Software Engineer**
+- 💻 I build **modern web apps** with React, Next.js & Java Spring Boot  
+- ⚡ I’m always exploring **new frameworks, tools, and design patterns**
+- 💬 Ask me about **React, Next.JS, TypeScript, or Java Spring Boot**
+- 🌱 Currently learning **Advanced Spring, Cloud, and System Design**
 
+---
 
+### 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohtady-sameh-3a9386244/" target="_blank">
+    <img src="https://img.shields.io/badge/-Mohtady%20Sameh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohtadysameh154@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MohtadySameh">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=339933)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+---
 
+### ⚙️ Tech Stack
 
-### 👨‍💻 I’m currently learning 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&logoColor=339933)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+#### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)&nbsp;
 
+#### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=for-the-badge&logo=springboot)&nbsp;
 
+#### 🧠 Database
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=database)&nbsp;
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-000?style=for-the-badge&logo=oracle)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)&nbsp;
 
+#### ☁️ Cloud & Tools
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code)&nbsp;
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohtady154&show_icons=true&theme=radical" alt="Mohtady's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohtady154&theme=radical" height="165"/>
+</p>
+
+---
+
+### 🚀 Featured Quote
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+</p>
+
+---
