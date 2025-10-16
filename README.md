@@ -78,7 +78,25 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohtady154&show_icons=true&theme=radical" alt="Mohtady's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohtady154&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats-gamma.vercel.app/?user=Mohtady154&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohtady154&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### ⚡ My Coding Energy
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohtady154&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohtady154&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
