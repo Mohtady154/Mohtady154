@@ -42,35 +42,11 @@
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠️ Tech Stack
 
-#### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)&nbsp;
-
-#### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?style=for-the-badge&logo=springboot)&nbsp;
-
-#### 🧠 Database
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=database)&nbsp;
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-000?style=for-the-badge&logo=oracle)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)&nbsp;
-
-#### ☁️ Cloud & Tools
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code)&nbsp;
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,redux,tailwind,vite,nextjs,git,github,figma,java,spring,postgres,mongodb,prisma,mysql,cpp,c,oracle" />
+</p>
 
 ---
 
